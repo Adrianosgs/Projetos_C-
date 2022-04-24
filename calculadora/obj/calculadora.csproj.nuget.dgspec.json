@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/ags/Documentos/curso C#/calculadora/calculadora.csproj": {}
+    "/home/ags/Documentos/curso C#/Projetos_c#/calculadora/calculadora.csproj": {}
   },
   "projects": {
-    "/home/ags/Documentos/curso C#/calculadora/calculadora.csproj": {
+    "/home/ags/Documentos/curso C#/Projetos_c#/calculadora/calculadora.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/ags/Documentos/curso C#/calculadora/calculadora.csproj",
+        "projectUniqueName": "/home/ags/Documentos/curso C#/Projetos_c#/calculadora/calculadora.csproj",
         "projectName": "calculadora",
-        "projectPath": "/home/ags/Documentos/curso C#/calculadora/calculadora.csproj",
+        "projectPath": "/home/ags/Documentos/curso C#/Projetos_c#/calculadora/calculadora.csproj",
         "packagesPath": "/home/ags/.nuget/packages/",
-        "outputPath": "/home/ags/Documentos/curso C#/calculadora/obj/",
+        "outputPath": "/home/ags/Documentos/curso C#/Projetos_c#/calculadora/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/ags/.nuget/NuGet/NuGet.Config"

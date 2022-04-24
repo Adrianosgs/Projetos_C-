@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ArHfZlFeiMhBkEgVfSLYnz03uJwNPpYVHIQDfCPa+IiKGAJhV0CXZAb3UlentW3p41+2v0vmPdp4UnpqXhx4nw==",
+  "dgSpecHash": "/wAmn/jntgnbKGdgDuR8ft+pZsIJxD0xS76FUyet8kL9wHTYSyyR+4fzCRdVilpsJT2jMqGgPdmquO/eStWoQg==",
   "success": true,
-  "projectFilePath": "/home/ags/Documentos/curso C#/calculadora/calculadora.csproj",
+  "projectFilePath": "/home/ags/Documentos/curso C#/Projetos_c#/calculadora/calculadora.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

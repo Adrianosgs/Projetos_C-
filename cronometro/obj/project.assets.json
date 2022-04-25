@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/ags/Documentos/curso C#/cronometro/cronometro.csproj",
+      "projectUniqueName": "/home/ags/Documentos/curso C#/Projetos_c#/cronometro/cronometro.csproj",
       "projectName": "cronometro",
-      "projectPath": "/home/ags/Documentos/curso C#/cronometro/cronometro.csproj",
+      "projectPath": "/home/ags/Documentos/curso C#/Projetos_c#/cronometro/cronometro.csproj",
       "packagesPath": "/home/ags/.nuget/packages/",
-      "outputPath": "/home/ags/Documentos/curso C#/cronometro/obj/",
+      "outputPath": "/home/ags/Documentos/curso C#/Projetos_c#/cronometro/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/ags/.nuget/NuGet/NuGet.Config"

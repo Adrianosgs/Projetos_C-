@@ -1,0 +1,15 @@
+/home/ags/Documentos/curso C#/Projetos_c#/cronometro/bin/Debug/net6.0/cronometro
+/home/ags/Documentos/curso C#/Projetos_c#/cronometro/bin/Debug/net6.0/cronometro.deps.json
+/home/ags/Documentos/curso C#/Projetos_c#/cronometro/bin/Debug/net6.0/cronometro.runtimeconfig.json
+/home/ags/Documentos/curso C#/Projetos_c#/cronometro/bin/Debug/net6.0/cronometro.dll
+/home/ags/Documentos/curso C#/Projetos_c#/cronometro/bin/Debug/net6.0/cronometro.pdb
+/home/ags/Documentos/curso C#/Projetos_c#/cronometro/obj/Debug/net6.0/cronometro.csproj.AssemblyReference.cache
+/home/ags/Documentos/curso C#/Projetos_c#/cronometro/obj/Debug/net6.0/cronometro.GeneratedMSBuildEditorConfig.editorconfig
+/home/ags/Documentos/curso C#/Projetos_c#/cronometro/obj/Debug/net6.0/cronometro.AssemblyInfoInputs.cache
+/home/ags/Documentos/curso C#/Projetos_c#/cronometro/obj/Debug/net6.0/cronometro.AssemblyInfo.cs
+/home/ags/Documentos/curso C#/Projetos_c#/cronometro/obj/Debug/net6.0/cronometro.csproj.CoreCompileInputs.cache
+/home/ags/Documentos/curso C#/Projetos_c#/cronometro/obj/Debug/net6.0/cronometro.dll
+/home/ags/Documentos/curso C#/Projetos_c#/cronometro/obj/Debug/net6.0/refint/cronometro.dll
+/home/ags/Documentos/curso C#/Projetos_c#/cronometro/obj/Debug/net6.0/cronometro.pdb
+/home/ags/Documentos/curso C#/Projetos_c#/cronometro/obj/Debug/net6.0/cronometro.genruntimeconfig.cache
+/home/ags/Documentos/curso C#/Projetos_c#/cronometro/obj/Debug/net6.0/ref/cronometro.dll

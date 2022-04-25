@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "TT4+Hx/buu9dVo1zcOL8irTdWD2IKUq8lQpJ8OCxjwlDurkJf0emrmGG4sEYLyJg5pE0bcGmP4EY+N7eXr3EfA==",
+  "dgSpecHash": "Vi1L9eFygJMobLBW/LLTHCelJMQDPTNXeltUSNweywZC9SqpOLlzdDdTSP5PxSK1R67KM7PZGdjxYzasYUtxGA==",
   "success": true,
-  "projectFilePath": "/home/ags/Documentos/curso C#/cronometro/cronometro.csproj",
+  "projectFilePath": "/home/ags/Documentos/curso C#/Projetos_c#/cronometro/cronometro.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

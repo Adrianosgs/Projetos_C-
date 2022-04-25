@@ -1,0 +1,15 @@
+/home/ags/Documentos/curso C#/Projetos_c#/editorDeTexto/bin/Debug/net6.0/editorDeTexto
+/home/ags/Documentos/curso C#/Projetos_c#/editorDeTexto/bin/Debug/net6.0/editorDeTexto.deps.json
+/home/ags/Documentos/curso C#/Projetos_c#/editorDeTexto/bin/Debug/net6.0/editorDeTexto.runtimeconfig.json
+/home/ags/Documentos/curso C#/Projetos_c#/editorDeTexto/bin/Debug/net6.0/editorDeTexto.dll
+/home/ags/Documentos/curso C#/Projetos_c#/editorDeTexto/bin/Debug/net6.0/editorDeTexto.pdb
+/home/ags/Documentos/curso C#/Projetos_c#/editorDeTexto/obj/Debug/net6.0/editorDeTexto.csproj.AssemblyReference.cache
+/home/ags/Documentos/curso C#/Projetos_c#/editorDeTexto/obj/Debug/net6.0/editorDeTexto.GeneratedMSBuildEditorConfig.editorconfig
+/home/ags/Documentos/curso C#/Projetos_c#/editorDeTexto/obj/Debug/net6.0/editorDeTexto.AssemblyInfoInputs.cache
+/home/ags/Documentos/curso C#/Projetos_c#/editorDeTexto/obj/Debug/net6.0/editorDeTexto.AssemblyInfo.cs
+/home/ags/Documentos/curso C#/Projetos_c#/editorDeTexto/obj/Debug/net6.0/editorDeTexto.csproj.CoreCompileInputs.cache
+/home/ags/Documentos/curso C#/Projetos_c#/editorDeTexto/obj/Debug/net6.0/editorDeTexto.dll
+/home/ags/Documentos/curso C#/Projetos_c#/editorDeTexto/obj/Debug/net6.0/refint/editorDeTexto.dll
+/home/ags/Documentos/curso C#/Projetos_c#/editorDeTexto/obj/Debug/net6.0/editorDeTexto.pdb
+/home/ags/Documentos/curso C#/Projetos_c#/editorDeTexto/obj/Debug/net6.0/editorDeTexto.genruntimeconfig.cache
+/home/ags/Documentos/curso C#/Projetos_c#/editorDeTexto/obj/Debug/net6.0/ref/editorDeTexto.dll

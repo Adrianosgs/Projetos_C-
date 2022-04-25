@@ -50,8 +50,14 @@ static void Divisao()
 
   var divFinal = div1 / div2;
 
+  Console.Write($"O resultado da Divisão é: {divFinal}");
 
+  Console.ReadKey();
 
 }
+
+Divisao();
+
+
 
 

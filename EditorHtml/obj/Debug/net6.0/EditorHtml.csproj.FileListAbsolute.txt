@@ -1,0 +1,15 @@
+/home/ags/Documentos/curso C#/Projetos_c#/EditorHtml/bin/Debug/net6.0/EditorHtml
+/home/ags/Documentos/curso C#/Projetos_c#/EditorHtml/bin/Debug/net6.0/EditorHtml.deps.json
+/home/ags/Documentos/curso C#/Projetos_c#/EditorHtml/bin/Debug/net6.0/EditorHtml.runtimeconfig.json
+/home/ags/Documentos/curso C#/Projetos_c#/EditorHtml/bin/Debug/net6.0/EditorHtml.dll
+/home/ags/Documentos/curso C#/Projetos_c#/EditorHtml/bin/Debug/net6.0/EditorHtml.pdb
+/home/ags/Documentos/curso C#/Projetos_c#/EditorHtml/obj/Debug/net6.0/EditorHtml.csproj.AssemblyReference.cache
+/home/ags/Documentos/curso C#/Projetos_c#/EditorHtml/obj/Debug/net6.0/EditorHtml.GeneratedMSBuildEditorConfig.editorconfig
+/home/ags/Documentos/curso C#/Projetos_c#/EditorHtml/obj/Debug/net6.0/EditorHtml.AssemblyInfoInputs.cache
+/home/ags/Documentos/curso C#/Projetos_c#/EditorHtml/obj/Debug/net6.0/EditorHtml.AssemblyInfo.cs
+/home/ags/Documentos/curso C#/Projetos_c#/EditorHtml/obj/Debug/net6.0/EditorHtml.csproj.CoreCompileInputs.cache
+/home/ags/Documentos/curso C#/Projetos_c#/EditorHtml/obj/Debug/net6.0/EditorHtml.dll
+/home/ags/Documentos/curso C#/Projetos_c#/EditorHtml/obj/Debug/net6.0/refint/EditorHtml.dll
+/home/ags/Documentos/curso C#/Projetos_c#/EditorHtml/obj/Debug/net6.0/EditorHtml.pdb
+/home/ags/Documentos/curso C#/Projetos_c#/EditorHtml/obj/Debug/net6.0/EditorHtml.genruntimeconfig.cache
+/home/ags/Documentos/curso C#/Projetos_c#/EditorHtml/obj/Debug/net6.0/ref/EditorHtml.dll

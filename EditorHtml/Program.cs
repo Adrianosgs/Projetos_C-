@@ -1,2 +1,10 @@
-﻿
-Console.WriteLine("testando o commit, teste05");
+﻿namespace EditorHtml
+{
+  class Program
+  {
+    static void Main(string[] args)
+    {
+      Menu.Show();
+    }
+  }
+}
